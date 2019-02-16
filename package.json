@@ -1,0 +1,24 @@
+{
+  "name": "inbot",
+  "version": "1.0.0",
+  "description": "sample bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EhsanAhanj",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "helmet": "^3.15.0",
+    "instagram-web-api": "^2.0.0",
+    "is-url": "^1.2.4",
+    "mongoose": "^5.4.9",
+    "nodemon": "^1.18.10",
+    "request-promise-native": "^1.0.5",
+    "tough-cookie": "^3.0.0",
+    "useragent-from-seed": "^1.0.1"
+  }
+}
